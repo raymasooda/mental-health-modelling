@@ -1,0 +1,17 @@
+task_name,task_type,acc
+task_1,0_back,1.0
+task_2,1_back,0.975
+task_3,2_back,0.825
+task_4,3_back,0.825
+task_5,1_back,1.0
+task_6,2_back,0.825
+task_7,3_back,0.775
+task_8,0_back,1.0
+task_9,2_back,0.925
+task_10,3_back,0.775
+task_11,0_back,1.0
+task_12,1_back,0.975
+task_13,3_back,0.8
+task_14,0_back,1.0
+task_15,1_back,0.925
+task_16,2_back,0.825
